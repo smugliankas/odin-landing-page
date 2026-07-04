@@ -70,3 +70,23 @@ button {
     font-weight: 900;
     color: #F9FAF8;
 }
+.info{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+.card{
+    padding: 20px;
+    flex: 1;
+}
+.bluebox {
+    height: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+}
